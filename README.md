@@ -29,4 +29,4 @@ Cleaned and analyzed a large dataset of movie metadata and financials to identif
 ---
 
 ## 📬 Contact
-I’ll be adding my LinkedIn soon — feel free to check back or reach me via GitHub for now.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/andrew-lai-337396185/) or reach out via GitHub.
