@@ -1,12 +1,14 @@
-## 👋 Hi — Welcome to My Data Analytics Portfolio
+## Welcome to My Data Analytics Portfolio
 
-I'm currently transitioning into data analytics after studying computer science. Over time, I’ve developed a strong interest in uncovering insights from data to solve real world problems and drive smarter decisions. This portfolio showcases my independent projects as I build hands on experience with tools like SQL, Excel, Tableau, and Python.
+Hi, I’m Andrew. I studied computer science, and over time, I’ve grown really interested in using data to solve real world problems and drive better decisions. This portfolio highlights the projects I’ve worked on independently to sharpen my skills and apply data analytics in practical ways.
 
-Each project here is something I designed, cleaned, analyzed, and visualized from start to finish, with a focus on both business impact and clear storytelling. I’m constantly learning and refining my skills, and this space is where I document that growth.
+Each project here was completed end to end, from data cleaning and exploration to analysis and visualization. I’ve used tools like SQL, Excel, Tableau, and Python to dig into datasets, extract insights, and communicate findings in a way that supports business thinking.
+
+I’m always learning, and this space is where I share that ongoing progress.
 
 ---
 
-## 🧠 Projects
+## Projects
 
 ### 1. **Customer Sales Analysis**
 **Tools used:** SQL, Tableau, Excel  
